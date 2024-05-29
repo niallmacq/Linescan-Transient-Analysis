@@ -5,4 +5,4 @@ PyQt5 interface for linescan homogeneity and transient kinetics/amplitude analys
 You can load .tif of .czi images. Czi files will update the lines per second and pixel size. 
 If using .tif these will need to be changed manually. 
 
-Here is a screenshot: ![Reference Image] (/screenshots/Screenshot.PNG)
+Here is a screenshot: ![Reference Image](https://github.com/niallmacq/Linescan-Transient-Analysis/blob/main/screenshots/Screenshot.PNG)
